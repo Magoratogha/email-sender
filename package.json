@@ -1,7 +1,7 @@
 {
   "name": "email-sender",
   "version": "1.0.0",
-  "description": "A simply NodeJS app for sending emails",
+  "description": "A simple NodeJS app for sending emails",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
